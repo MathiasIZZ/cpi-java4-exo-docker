@@ -9,4 +9,4 @@ RUN npm run build
 
 FROM nginx:latest
 WORKDIR /usr/share/nginx/html
-COPY --from=build /app/dist ./
+COPY --from=build /app/dist/ ./
