@@ -1,0 +1,25 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+K
+front/src/app/app.module.ts,8\4\84d01d817d41ff657aa1e391bb82924d4de25525
+B
+back/tsconfig.json,1\f\1f1358289fdab12e9919add5da8d6ea936ad91a4
+F
+back/package-lock.json,b\0\b028d41e7e2f6be09287b33b78feb37092179df6
+X
+(back/src/controllers/cinemaController.ts,b\6\b6ef1ebc2efbd4328b631c110e77afb3e9663104
+B
+back/.dockerignore,0\7\072e25175a9913f9b5349a61adb20e56ca7137e2
+A
+front/src/main.ts,f\4\f47692bb42c46190a9865f4ea840ff6139ad85c8
+B
+front/package.json,9\f\9f133e1f3b36f3ee5044a78511e53520382b1b19
+A
+back/package.json,2\0\200d78ab47f57435c648cc443315fb40d5ee0e43
+P
+ back/dist/config/mongo.config.js,f\1\f156ce1acefebadc024ef3c4bef280b7680f7327
+@
+back/dist/app.js,8\3\83e694f2233d2e9e8da7d84550f4b10d56e9c292
+?
+back/src/app.ts,4\0\407758b184ccd64101223e173819fb2704686766
